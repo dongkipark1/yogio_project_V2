@@ -12,7 +12,7 @@ class HomeHeaderLogo extends StatelessWidget {
         ),
         Expanded( // Center 위젯 대신 Expanded 사용하여 텍스트를 중앙 정렬
           child: Text(
-            "여어떻노",
+            "여어떻노.",
             textAlign: TextAlign.center,
             style: TextStyle(
               fontSize: 43,
